@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotepadJAVA</string>
+    <string name="saveText">Сохранить</string>
+    <string name="openText">Открыть</string>
+    <string name="finishText">Выход</string>
+    <string name="contentText"></string>
+
+
+</resources>

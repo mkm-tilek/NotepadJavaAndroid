@@ -1,4 +1,4 @@
-package kg.auca.notepad;
+package kg.tilek.notepad;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

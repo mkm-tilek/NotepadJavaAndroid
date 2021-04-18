@@ -1,4 +1,4 @@
-package kg.auca.notepad;
+package kg.tilek.notepad;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("kg.auca.notepad", appContext.getPackageName());
+        assertEquals("kg.tilek.notepad", appContext.getPackageName());
     }
 }
